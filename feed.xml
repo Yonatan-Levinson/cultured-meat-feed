@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Cultured Meat Industry Brief</title>
+    <link>https://yonatan-levinson.github.io/cultured-meat-feed/</link>
+    <description>Weekly automated briefing on cultivated meat industry news, regulatory updates, scientific breakthroughs, and commercialization milestones.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yonatan-levinson.github.io/cultured-meat-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cultured Meat Industry Brief — Week of April 20, 2026</title>
+      <link>https://yonatan-levinson.github.io/cultured-meat-feed/</link>
+      <guid isPermaLink="false">cultured-meat-brief-2026-04-20</guid>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+      <dc:creator>Claude (Cowork)</dc:creator>
+      <description><![CDATA[
+<h2>Top Line</h2>
+<p>The cultivated meat sector entered 2026 in a period of consolidation — funding has fallen ~96% from its 2021 peak, but technical milestones, new regulatory frameworks, and early commercial launches signal a maturing industry.</p>
+<h2>1. Company News &amp; Funding</h2>
+<p><strong>Mission Barns</strong> — World's first retail cultivated meat sale (pork meatballs, CA, Nov 2025). Restaurant hybrids ongoing through Apr 2026.</p>
+<p><strong>Wildtype</strong> — First US commercial restaurant service of cultivated salmon (Portland, OR; San Francisco).</p>
+<p><strong>BSF Enterprise</strong> — £15M (~$19.8M) funding round for food-safe culture media components.</p>
+<p><strong>Tufts University</strong> — $2.1M Massachusetts state grant (Mar 2026). Partnering with GFI to release SCiFi Foods cell lines publicly.</p>
+<p><strong>BlueNalu</strong> — Expanded Nomad Foods partnership for Europe; joined UK FSA novel foods sandbox.</p>
+<p><strong>Gourmey</strong> — World's first cultivated meat application validated by UK FSA and Food Standards Scotland. Filed with FSANZ for cultivated duck/foie gras.</p>
+<p><strong>Vow</strong> — Cultivated Japanese quail at 20+ Australian venues.</p>
+<p><strong>Casualties:</strong> Meatable (early 2026), Believer Meats (late 2025) ceased operations. Investment fell to $74M in 2025 — 96% below 2021 peak.</p>
+<h2>2. Regulatory</h2>
+<p><strong>EU Meaty Naming Ban (Mar 5, 2026)</strong> — 31 terms banned including beef, chicken, pork, steak. Burger/sausage/nuggets preserved. 3-year transition. Aleph Farms publicly non-compliant.</p>
+<p><strong>US:</strong> 5 FDA/USDA-cleared products; 7 states now ban cultivated meat (Texas joined June 2025). UPSIDE Foods Florida lawsuit at bench trial Feb 2026.</p>
+<p><strong>Singapore:</strong> 3 products approved. <strong>UK FSA sandbox</strong> launched with Mosa Meat, Hoxton Farms, BlueNalu, Gourmey.</p>
+<h2>3. Technical Breakthroughs</h2>
+<p><strong>Nature Communications (2026)</strong> — Multi-tissue pork from serum-free porcine epiblast stem cells: muscle + adipose + vascular endothelium from one platform.</p>
+<p><strong>Media costs:</strong> Leading firms at $10–$15/kg (30–50% below $21/kg benchmark). Up to 90% cost reduction via plant-based substitutes.</p>
+<p><strong>TFF:</strong> 130 billion cells/liter at 43% wet-weight yield.</p>
+<p><strong>Scaffolds (npj Science of Food, JAFC 2025):</strong> 3D bioprinting most promising for whole-cuts; scaffold-cell interface is primary bottleneck.</p>
+<h2>4. Asia-Pacific</h2>
+<p>Asia-Pacific market $179M in 2024 (2x Europe), 12.3% CAGR to 2033. Singapore most permissive regulator. Foreign Policy (Apr 10, 2026) frames cultivated meat as US-China food security contest.</p>
+<h2>Sources</h2>
+<p>13 searches: Food Navigator, Foreign Policy, WBUR, Green Queen, AgFunder, SeafoodSource, Nature Communications, npj Science of Food, JAFC, GFI State of Industry 2024.</p>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
